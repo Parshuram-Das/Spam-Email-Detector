@@ -1,2 +1,2 @@
 # Spam-Email-Detector
-A model trained to detect the spam or non spam email using ML approach.
+A model trained to detect the spam or non spam email using ML approach.Spam email detection using Logistic Regression (LR) is a machine learning approach to classify emails as spam or legitimate (ham). The process involves preprocessing the email text by cleaning, tokenizing, and converting it into numerical features using methods like TF-IDF. Logistic Regression is then trained on these features to learn patterns that distinguish spam from ham. Once trained, the model predicts the probability of an email being spam and classifies it accordingly. This approach is simple, efficient, and achieves high accuracy, making it a reliable solution for filtering unwanted emails.
